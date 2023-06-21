@@ -1,3 +1,20 @@
+:root {
+    color: #4d5ae5;
+    color: #404bbf;
+    color: #2e2f42;
+    color:#31d0aa;
+    color: #434455;
+    color: #8e8f99;
+    color: #e7e9fc;
+    color: #f4f4fd;
+    color: rgba(46, 47, 66, 0.4);
+    color: rgba(46, 47, 66, 0.7);
+    color: #ffffff;
+    color: #fcfcfc;
+}
+
+
+
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
