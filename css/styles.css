@@ -146,15 +146,18 @@ ol {
     color: #2E2F42;
 }
 
-.backteam {
+.team-backteam {
     background: #F4F4FD;
 }
-
-.nameteam {
+.team-namee{
+    text-align: center;
+}
+.name-team {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    
 
 }
 
