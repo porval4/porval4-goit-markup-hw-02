@@ -139,7 +139,7 @@ body {
 }
 
 .team {
-    background-color: #FFFFFF
+    background-color: #F4F4FD
 }
 
 .team-title {
@@ -152,7 +152,7 @@ body {
 }
 
 .team-item {
-    background-color: var(--white-color);
+    background-color: #FFFFFF
 }
 
 .team-name {
