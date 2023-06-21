@@ -27,13 +27,7 @@ body {
     list-style: none;
 }
 
-/* Index */
 
-/* header */
-
-.header {}
-
-.header-nav {}
 
 .header-logo {
     font-family: "Raleway", sans-serif;
@@ -48,10 +42,6 @@ body {
 .header-logo-studio {
     color: var(--navi-blue-color);
 }
-
-.header-list {}
-
-.header-items {}
 
 .header-link {
     font-weight: 500;
@@ -73,9 +63,7 @@ body {
     font-style: normal;
 }
 
-.adress-list {}
 
-.adress-items {}
 
 .adress-link {
     font-size: 16px;
@@ -92,7 +80,7 @@ body {
     color: var(--ocean-color);
 }
 
-/* main */
+
 .hero {
     background-color: var(--navi-blue-color);
 }
@@ -124,11 +112,6 @@ body {
     background-color: var(--ocean-color);
 }
 
-.feature {}
-
-.feature-list {}
-
-.feature-item {}
 
 .feature-strategy {
     font-weight: 500;
@@ -145,7 +128,6 @@ body {
     color: var(--slate-color);
 }
 
-.section-about {}
 
 .about-title {
     font-size: 36px;
@@ -155,10 +137,6 @@ body {
     text-transform: capitalize;
     color: var(--navi-blue-color);
 }
-
-.about-list {}
-
-.about-item {}
 
 .team {
     background-color: var(--cloud-color);
@@ -172,8 +150,6 @@ body {
     text-transform: capitalize;
     color: var(--navi-blue-color);
 }
-
-.team-list {}
 
 .team-item {
     background-color: var(--white-color);
@@ -194,7 +170,7 @@ body {
     color: var(--slate-color);
 }
 
-/* footer */
+
 .footer {
     background-color: var(--navi-blue-color);
 }
@@ -219,13 +195,8 @@ body {
     color: var(--cloud-color);
 }
 
-/* Portfolio */
 
-.section-portfolio {}
 
-.filters-title {}
-
-.filters-list {}
 
 .filters-button {
     font-family: "Roboto", sans-serif;
@@ -247,12 +218,6 @@ body {
     color: var(--white-color);
     background-color: var(--ocean-color);
 }
-
-.raw-list {}
-
-.raw-item {}
-
-.raw-link {}
 
 .raw-title {
     font-weight: 500;
